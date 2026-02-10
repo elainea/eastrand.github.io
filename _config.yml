@@ -4,7 +4,7 @@ email: ""
 description: "Associate Professor"
 repository: "elainea/elainea.github.io"
 
-remote_theme: "mmistakes/minimal-mistakes@latest"
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
 minimal_mistakes_skin: "default"   # choose: air, contrast, dark, mint, neon, solarized, etc.
 
